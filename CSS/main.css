@@ -1,0 +1,19 @@
+.container {
+    display: grid;
+    align-items: center; 
+    grid-template-columns: auto auto auto auto auto;
+    column-gap: 0px;
+    transition: ease-in;
+   }
+h1 {
+    font-family: Krona One;
+}
+.menu {
+    color: #EEC035;
+}
+.para {
+    font-family: Manrope;
+}
+body {
+    background-color: rgb(15, 15, 15);
+}
